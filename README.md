@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**tvp227/tvp227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Thomas Porter
 
-Here are some ideas to get you started:
+## Security Operations Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Security Operations Engineer with expertise in threat detection, incident response, and security automation.
+
+---
+
+## Technical Expertise
+
+- **Security Operations:** Threat Detection | Incident Response | Vulnerability Management | Identity Management
+- **Programming:** Python | Powershell | Go 
+
+
+## Professional Focus
+
+Currently engaged in:
+- SOC Automation and Management 
+
+
+## Projects
+
+### KuduCrowbar
+A tool designed to easily edit manage and maintain Sentinel Analytic rules for you and multiple customers .
+
+### ARMconv
+Swiss army knife of Sentinel Content management with multiple tools encapsulated into a tkinter GUI, ranging from ARM template concatanation to make them easily deployable into different subscriptions, to documentation aids for automatically generating read.me files for your sentinel content and much more.
+
+### XPNC Auto 
+I worked as a contracted security analyst in london for 6 months and would often have to create expense forms in excel to cover my train tickets. I scripted some python that uses tesseract OCR capture to upload the train tickets and manually plot the data in an excel sheet.
+
+
+## Contact
+
+- Professional Email: [thomas.porter@arugacyber.com]
+- LinkedIn: [https://www.linkedin.com/in/thomasvporter/]
+
+---
