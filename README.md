@@ -21,13 +21,13 @@ Currently engaged in:
 
 ## Projects
 
-### KuduCrowbar
+### [KuduCrowbar](https://github.com/tvp227/KuduCrowbar)
 A tool designed to easily edit manage and maintain Sentinel Analytic rules for you and multiple customers .
 
-### ARMconv
+### [ARMconv](https://github.com/tvp227/ARMconv)
 Swiss army knife of Sentinel Content management with multiple tools encapsulated into a tkinter GUI, ranging from ARM template concatanation to make them easily deployable into different subscriptions, to documentation aids for automatically generating read.me files for your sentinel content and much more.
 
-### XPNC Auto 
+### [XPNC Auto](https://github.com/tvp227/xpncAuto) 
 I worked as a contracted security analyst in london for 6 months and would often have to create expense forms in excel to cover my train tickets. I scripted some python that uses tesseract OCR capture to upload the train tickets and manually plot the data in an excel sheet.
 
 
