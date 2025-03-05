@@ -21,7 +21,7 @@ Currently engaged in:
 
 ## Projects
 
-### [KuduCrowbar](https://github.com/tvp227/KuduCrowbar)
+### [KuduCrowbar](https://github.com/tvp227/Kudu-Crowbar)
 A tool designed to easily edit manage and maintain Sentinel Analytic rules for you and multiple customers .
 
 ### [ARMconv](https://github.com/tvp227/ARMconv)
