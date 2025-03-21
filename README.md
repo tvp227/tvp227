@@ -20,6 +20,8 @@ Currently engaged in:
 
 
 ## Projects
+### [KuduArchSetup](https://github.com/tvp227/KuduArchSetup) 
+My Arch linux bash script that fleshes out the OS with my favourite apps, themes and tweaks.
 
 ### [KuduCrowbar](https://github.com/tvp227/Kudu-Crowbar)
 A tool designed to easily edit manage and maintain Sentinel Analytic rules for you and multiple customers .
@@ -29,9 +31,6 @@ Swiss army knife of Sentinel Content management with multiple tools encapsulated
 
 ### [XPNC Auto](https://github.com/tvp227/xpncAuto) 
 I worked as a contracted security analyst in london for 6 months and would often have to create expense forms in excel to cover my train tickets. I scripted some python that uses tesseract OCR capture to upload the train tickets and manually plot the data in an excel sheet.
-
-### [KuduArchSetup](https://github.com/tvp227/KuduArchSetup) 
-My Arch linux bash script that fleshes out the OS with my favourite apps, themes and tweaks.
 
 ### [SnapInstaller](https://github.com/tvp227/SnapInstaller) 
 I was a massive fan of ninite on windows systems for mass installing apps on a fresh build. Wanted something similar for linux using the snap store. If youre anything like me and change distros all the time this is a great alteranative to ninite.
