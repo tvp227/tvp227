@@ -20,6 +20,9 @@ Currently engaged in:
 
 
 ## Projects
+### [Mingo](https://github.com/tvp227/Mingo)
+TUI codex wrapper for running multiple sessions, invoking skills and intergrations.
+
 ### [KuduArchSetup](https://github.com/tvp227/KuduArchSetup) 
 My Arch linux bash script that fleshes out the OS with my favourite apps, themes and tweaks.
 
